@@ -49,8 +49,11 @@
 
 .punctuation-space {
   background-color: #d3edf5;
-  border: 1px solid #9accdc;
-  border-radius: 5px;
+      border: 1px solid #9accdc;
+      border-radius: 5px;
+      width: 1em;
+      display: inline-block;
+      height: 1em;
 }
 
 @keyframes App-logo-spin {
